@@ -1,0 +1,50 @@
+div{
+    width: 200px;
+    height: 250px;
+    float: left;
+    border: 2px solid black;
+    padding: 20px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: crimson;
+
+}
+
+
+    input[text=type],select
+{
+    width: 200%;
+    height: 400px;
+    padding: 10px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    display: inline-block;
+    border: 2px solid black;
+    border-radius: 2px;
+    resize: none;
+    background-color: hotpink;
+}
+   
+
+
+input[text=register]:hover
+{
+    width: 200px;
+    height: 400px;
+    padding:8px 0;
+    margin:auto;
+    border: 5px 
+    border-radius: 20px;
+    cursor: pointer;
+    color: blue;
+    background-color: crimson;
+}
+
+    
+}
+
+input[text=type],select{
+    display: inline-block;
+    margin-bottom: 50px;
+}
